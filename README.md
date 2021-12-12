@@ -1,2 +1,2 @@
 # Water-Reminder
-This is a college Assignment
+I have done this as a college assignment
